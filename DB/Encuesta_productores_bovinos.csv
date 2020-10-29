@@ -1,0 +1,4 @@
+Terrenos o Parcelas/Bovinos/¿Qué producto obtiene de esta parcela (bovinos)?,Terrenos o Parcelas/Bovinos/¿Cuánto obtiene de este producto al año?,Terrenos o Parcelas/Bovinos/¿A que precio vendio ${bovinos_prod}?,Terrenos o Parcelas/Bovinos/¿Qué producto obtiene de esta parcela (bovinos)?,Terrenos o Parcelas/Bovinos/¿A que precio vendio ${prod_obt_bovinos}?,_index,_parent_table_name,_parent_index,_submission__id,_submission__uuid,_submission__submission_time,_submission__validation_status
+vacas,1,8000,,,4,terrenos_parcelas,247,45507374,051cf833-c30b-4471-8edf-b875653aae8f,2020-01-26T06:44:25,
+vacas,5,10000,,,5,terrenos_parcelas,254,45507458,8b2b6fa2-252d-43e1-98a3-782e7f0406da,2020-01-26T06:46:49,
+vacas,2,10,,,6,terrenos_parcelas,265,46844650,feeb4fbb-9d34-40b8-b83a-1ba83736413c,2020-02-16T05:45:18,
